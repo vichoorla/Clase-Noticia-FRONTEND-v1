@@ -1,0 +1,48 @@
+nav{
+    background-color: red;
+    text-align: right;
+}
+a{
+    background-color: azure;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+section{
+    background-color: antiquewhite;
+}
+
+h1{
+    background-color: aqua;
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0px;
+}
+
+h6{
+    background-color: aquamarine;
+    text-align: right;
+    font-size:small;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p{
+    /* background-color: beige; */
+}
+#cajaNoticia{
+    display: flex;
+}
+.cajasNoticias1{
+    width: 50%;
+    text-align: center;
+}
+.cajasNoticias2{
+    width: 50%;
+    margin: auto;
+}
+#imgLeon{
+    width: 50%;
+    text-align: right;
+    display: inline;
+}
